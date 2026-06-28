@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m currently working on building real-world projects like Weather Dashboard, HARSH Portfolio, and DSA problem solving. I’m passionate about AI, automation, and full-stack development, and always looking to collaborate on innovative projects. Currently, I’m learning Data Structures & Algorithms, React, SQL, and Computer Vision while improving my backend and system design skills. You can ask me about Python, React, OpenCV, SQL, GitHub, and problem solving. Fun fact: I enjoy turning simple CLI tools into scalable real-world applications.
+
+## Hi, I'm Harsh Singh 👋
+
+### AI Engineer | Python Developer | Automation Builder | Frontend Developer
+
+I’m a passionate AI and Python developer focused on building real-world projects in automation, computer vision, and web development. Currently working on Weather Dashboard, HARSH Portfolio, and improving my DSA problem-solving skills. I enjoy turning simple ideas into practical applications and continuously learning React, SQL, Computer Vision, and backend system design to become a strong AI Engineer.
 
 
 ## 🌐 Socials:
