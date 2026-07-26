@@ -22,7 +22,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">💠 Tech Stack</h2>
 
 ###
 
@@ -77,24 +77,15 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/harshshubham987-svg/harshshubham987-svg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/harshshubham987-svg/harshshubham987-svg/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshshubham987-svg&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshshubham987-svg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=harshshubham987-svg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/harshshubham987-svg/harshshubham987-svg/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="stats" align="right">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshshubham987-svg&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
 ###
