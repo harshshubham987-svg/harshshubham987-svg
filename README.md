@@ -66,6 +66,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshshubham987-svg&theme=tokyonight&hide_border=true&border_radius=12" />
+</div>
+
+###
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/harsh-shubham-singh-a42946286/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="22" alt="linkedin logo"  />
@@ -74,11 +80,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="34" height="22" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshshubham987-svg&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
-
 ###
