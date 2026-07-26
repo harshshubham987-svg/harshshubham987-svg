@@ -78,13 +78,6 @@
 ###
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshshubham987-svg&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshshubham987-svg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=harshshubham987-svg&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
